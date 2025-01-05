@@ -36,6 +36,7 @@ or
 ```
 etc...
 
+![screenshot](/output.jpg)
 
 ## Compatibility ...
 
