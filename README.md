@@ -12,7 +12,7 @@ Installation:
 
 ```
 git clone https://github.com/BuriXon-code/Termux-diskspeed
-cd GTK-Termux-diskspeed
+cd Termux-diskspeed
 chmod +x *
 ```
 
