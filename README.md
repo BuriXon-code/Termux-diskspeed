@@ -46,4 +46,4 @@ This script is so simple that it works on every UNIX with Bash, Coreutils/Busbox
 
 Conatct me: **support@burixon.com.pl**
 
-Support me: **[tips](https://burixon.com.pl/donate/)**
+Support me: **[donate](https://burixon.com.pl/donate/)**
