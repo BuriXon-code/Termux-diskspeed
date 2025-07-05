@@ -36,6 +36,9 @@ or
 ```
 etc...
 
+>[!CAUTION]
+> Warning! The script requires at least 4GB of free space in the phone's storage for creating temporary files during the test. If you do not have that much space, you can edit the script by changing the values `bs=64M count=64` according to your own needs and capabilities.
+
 ![screenshot](/output.jpg)
 
 ## Compatibility ...
